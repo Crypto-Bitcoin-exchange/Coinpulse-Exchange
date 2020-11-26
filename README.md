@@ -2,7 +2,7 @@
 
 CoinPulse portrays itself as a "worldwide computerized money exchanging stage." Essentially, they mean to be a stage that gives data about the CPEX, BTC, ETH, and USDT markets. The information on their site shows the most gotten cost, alongside their volume on that information base. 
 
-<a href="https://coinpedia.org/exchange/coinpulse-exchange/">CoinPulse cryptographic exchange</A> money trade stage is situated in Panama. It has Instant Exchange consolidating with an incorporated double trade, for snappy purchase/sell orders. There is Advanced Exchange for clients who utilize the request book (Limit, Market, Stop/Stop-Limit and Trailing stop-misfortune). CoinPulse's point is to be an essential stage for resource exchanging and blockchain improvement. 
+<a href="https://coinpedia.org/exchange/coinpulse-exchange/">CoinPulse cryptocurrency exchange</A> money trade stage is situated in Panama. It has Instant Exchange consolidating with an incorporated double trade, for snappy purchase/sell orders. There is Advanced Exchange for clients who utilize the request book (Limit, Market, Stop/Stop-Limit and Trailing stop-misfortune). CoinPulse's point is to be an essential stage for resource exchanging and blockchain improvement. 
 
 The stage highlights are secure wallets, easy to use interface, quick and simple exchange, reference programs, low expenses, and astounding help. 
 
